@@ -7,13 +7,9 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
-}
-.box_3 {
-}
-._形状 {
-}
-._图片 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -59,7 +55,47 @@
 ._文本段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
 ._流程形状 {
 }
 ._连接线 {
+}
+.flow_shape {
+}
+.box_3 {
+}
+._默认样式 {
+}
+._跳转-移入 {
+  color:#1ABC9C;
+}
+.icon {
+}
+.line {
+}
+.box_11 {
+}
+._表格 {
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.image {
+}
+.checkbox {
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.link_button {
+  color:#169BD5;
 }
